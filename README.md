@@ -1,9 +1,7 @@
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1-6EVk92SLTP9NoDwTCsMcr-a8vY2g-6Q/view?usp=sharing">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/esp32pcb/hodiny/blob/main/cas%20vecer.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
-
-https://drive.google.com/file/d/1-6EVk92SLTP9NoDwTCsMcr-a8vY2g-6Q/view?usp=sharing
 
 # HODINY NA MATICOVEM DISPLEJI RIZENE PRES INTERNET 
 ## hodiny na led displeji 32x8 s max7219
