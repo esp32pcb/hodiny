@@ -1,8 +1,9 @@
-# hodiny
-hodiny na led displeji 32x8 s max7219
+# HODINY NA MATICOVEM DISPLEJI RIZENE PRES INTERNET 
+## hodiny na led displeji 32x8 s max7219
 
 - moznost nastaveni wifi pomoci aplikace ESPTOUCH SMARTCONFIG
-- upgrade firmware OTA 
+- upgrade firmware OTA
+- 
 
 
 - ukazuji cas z SNTP
