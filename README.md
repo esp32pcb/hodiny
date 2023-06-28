@@ -10,8 +10,9 @@
 - moznost nastaveni wifi pomoci aplikace ESPTOUCH SMARTCONFIG
 - upgrade firmware PRES OTA
 - nastaveni intensity displeje podle okolniho svetla
-- ukazuji cas z SNTP
-- ukazuji datum co 1 minutu
+- cas z SNTP
+- datum co 1 minutu
+- kdo ma svatek 
 - pokud je pridan senzor HDC1080 na I2C sbernici tak zobrazuje take teplotu a vlhkost
 
 
