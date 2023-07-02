@@ -23,7 +23,7 @@
 - wifi se nastavuje pomoci aplikace ESPTOUCH SMARTCONFIG, ktera je jak pro android a tak pro iphone
 - pripojite se na 2,4 Gb sit. Musi byt 2.4 Gb! 5Gb ESP neumi!
 
-- Neni li v okoli znama wifi zustanou hodiny tmave
+- Neni li v okoli znama wifi zustanou hodiny tmave a svítí led v pravém horním rohu.
 - stisknete tlacitko P35 na dobu 5 sekund. na displeji projede napis "mobil - start smart config"
 - spustite tuto aplikaci, vyplnite heslo k vasi wifi a stisknete connect.
 
