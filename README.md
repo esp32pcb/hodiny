@@ -15,9 +15,11 @@
 - kdo ma svatek 
 - pokud je pridan senzor HDC1080 na I2C sbernici tak zobrazuje take teplotu a vlhkost
 
+## sestaveni
+video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
 ## wifi
-- po spusteni hodin poprve je prednastavena wifi na SSID "IOT" a password "12345678".
+- po spusteni hodin poprve je wifi prednastavena na SSID "IOT" a password "12345678".
   Pokud si nastavite mobilni hotspot s temito parametry tak se hodiny pripoji a zacnou ukazovat cas, datum a svatky.
 ## nastaveni wifi
 - wifi se nastavuje pomoci aplikace ESPTOUCH SMARTCONFIG, ktera je jak pro android a tak pro iphone
