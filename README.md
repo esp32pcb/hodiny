@@ -18,12 +18,12 @@
 
 ## wifi
 - po spusteni hodin poprve je prednastavena wifi na SSID "IOT" a password "12345678".
-  Pokud si nastavite mobilni hotspot s temito parametry tak se hodiny pripoji a zacnou ukazovat cas.
+  Pokud si nastavite mobilni hotspot s temito parametry tak se hodiny pripoji a zacnou ukazovat cas, datum a svatky.
 ## nastaveni wifi
 - wifi se nastavuje pomoci aplikace ESPTOUCH SMARTCONFIG, ktera je jak pro android a tak pro iphone
-- pripojite se na 2,4 Gb sit. Musi byt 2.4 Gb! 5Gb ESP neumi!
+- pripojite se mobilem na 2,4 Gb sit na ktere budou pripojeny take vase hodiny. Musi byt 2.4 Gb! 5Gb ESP neumi!
 
-- Neni li v okoli znama wifi zustanou hodiny tmave a svítí led v pravém horním rohu.
-- stisknete tlacitko P35 na dobu 5 sekund. na displeji projede napis "mobil - start smart config"
-- spustite tuto aplikaci, vyplnite heslo k vasi wifi a stisknete connect.
+- Neni li v okoli znama wifi sit zustanou hodiny tmave a svítí led v pravém horním rohu. Pozdejsi verze uz maji napis "wifi?"
+- stisknete tlacitko G35 na dobu delsi nez 5 sekund. na displeji projede napis "mobil - start smart config"
+- spustite aplikaci ESPTOUCH SMARTCONFIG, vyplnite heslo k vasi wifi a stisknete connect.
 
