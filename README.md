@@ -28,4 +28,16 @@ video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?li
 - Neni li v okoli znama wifi sit zustanou hodiny tmave a svítí led v pravém horním rohu. Pozdejsi verze uz maji napis "wifi?"
 - stisknete tlacitko G35 na dobu delsi nez 5 sekund. na displeji projede napis "mobil - start smart config"
 - spustite aplikaci ESPTOUCH SMARTCONFIG, vyplnite heslo k vasi wifi a stisknete connect.
+- hned aktualizujte firmware
+
+## aktualizace firmware
+Po připojení na WiFi si zkuste aktualizovat firmware.
+Tlacitko G34 držte déle než 5s a aktualizace se spustí.
+
+FW verze 
+- 1.10 změna chování u startu hodin. Po zapnutí se na displeji zobrazí text "wifi?"
+  
+- 1.1 startovací verze.
+
+
 
