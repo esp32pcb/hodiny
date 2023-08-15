@@ -39,5 +39,9 @@ FW verze
   
 - 1.1 startovací verze.
 
+## kontakt
+esp32hodiny@gmail.com
+
+
 
 
