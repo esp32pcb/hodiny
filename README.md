@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/esp32pcb/hodiny/blob/main/cas%20vecer.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/esp32pcb/hodiny/blob/main/hodiny%20svitici%20light.jpg">
+  <source media= srcset="https://github.com/esp32pcb/hodiny/blob/main/cas%20vecer.jpg">
 </picture>
 
 # HODINY NA MATICOVEM DISPLEJI RIZENE SNTP Z INTERNETU 
