@@ -13,7 +13,7 @@
 - nastaveni intensity displeje podle okolniho svetla
 - cas je rizeny z SNTP
 - datum a kdo ma svatek co 1 minutu
-- pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzor1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
+- pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
 
 ## sestaveni
 PCB si muzete koupit na e-shopu v [HADEXu](https://www.hadex.cz/m303-vyvojova-deska-s-esp32-vroom-32-24ghz-wifi--bluetooth)
@@ -22,7 +22,7 @@ v Hadexu si kupte i [displej](https://www.hadex.cz/m504a-led-matrix-matice-8x8x4
 
 video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
-[senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzor1.jpg) koupíte u tady.
+[senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) koupíte u tady.
 
 ## wifi
 - po spusteni hodin poprve je wifi prednastavena na SSID "IOT" a password "12345678".
