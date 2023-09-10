@@ -8,16 +8,21 @@
 ## hodiny na led displeji 32x8 s max7219
 
 ## co zatim umi?
-- moznost nastaveni wifi pomoci aplikace ESPTOUCH SMARTCONFIG
-- upgrade firmware PRES OTA
+- nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG
+- upgrade firmware pres OTA
 - nastaveni intensity displeje podle okolniho svetla
-- cas z SNTP
-- datum co 1 minutu
-- kdo ma svatek 
-- pokud je pridan senzor HDC1080 na I2C sbernici tak zobrazuje take teplotu a vlhkost
+- cas je rizeny z SNTP
+- datum a kdo ma svatek co 1 minutu
+- pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzor1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
 
 ## sestaveni
+PCB si muzete koupit na e-shopu v [HADEXu](https://www.hadex.cz/m303-vyvojova-deska-s-esp32-vroom-32-24ghz-wifi--bluetooth)
+
+v Hadexu si kupte i [displej](https://www.hadex.cz/m504a-led-matrix-matice-8x8x4-s-max7219---cervena).
+
 video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
+
+[senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzor1.jpg) koupíte u tady.
 
 ## wifi
 - po spusteni hodin poprve je wifi prednastavena na SSID "IOT" a password "12345678".
@@ -29,7 +34,7 @@ video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?li
 - Neni li v okoli znama wifi sit zustanou hodiny tmave a svítí led v pravém horním rohu. Pozdejsi verze uz maji napis "wifi?"
 - stisknete tlacitko G35 na dobu delsi nez 5 sekund. na displeji projede napis "mobil - start smart config"
 - spustite aplikaci ESPTOUCH SMARTCONFIG, vyplnite heslo k vasi wifi a stisknete connect.
-- hned aktualizujte firmware
+- hned aktualizujte firmware pro nejnovejsi software
 
 ## aktualizace firmware
 Po připojení na WiFi si zkuste aktualizovat firmware.
