@@ -42,7 +42,7 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
 ## FW verze 
 26.10.2023
-- 1.20 animovane cisla pri zmene hodin popripade po ukayani datumu a teploty viz [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
+- 1.20 animovane cisla pri zmene hodin popripade po ukazani datumu a teploty viz [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
 12.08.2023
 - 1.10 změna chování u startu hodin. Po zapnutí se na displeji zobrazí text "wifi?"
