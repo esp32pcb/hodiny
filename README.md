@@ -40,7 +40,8 @@ video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?li
 Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
-FW verze 
+## FW verze 
+- 1.20 animovane cisla pri zmene hodin popripade po ukayani datumu a teploty viz [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 - 1.10 změna chování u startu hodin. Po zapnutí se na displeji zobrazí text "wifi?"
   
 - 1.1 startovací verze.
