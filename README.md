@@ -17,7 +17,7 @@
 
 ## Novinky-Vylepseni-Hodin
 - pridano animovani cisel
-- dalsi info
+- [dalsi info](https://github.com/esp32pcb/hodiny/blob/main/Hodiny_Pripravovane_Inovace.md)
 
 ## sestaveni
 PCB si muzete koupit na e-shopu v [HADEXu](https://www.hadex.cz/m303-vyvojova-deska-s-esp32-vroom-32-24ghz-wifi--bluetooth)
