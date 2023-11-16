@@ -20,3 +20,5 @@ Kromě toho pracujeme na vývoji funkcí, které umožní hodinám zobrazovat sb
 Tyto nové funkce jsou výsledkem našeho neustálého snahy o inovace a zlepšování našich produktů. Naše cíl je nejen poskytovat přesný čas, ale i učinit hodiny inteligentním a užitečným nástrojem pro každodenní život.
 
 Těším se, že vám brzy mohu představit tyto nové možnosti a děkuji vám za vaši nepřetržitou podporu a zájem o naše výrobky.
+
+[na readme](https://github.com/esp32pcb/hodiny/edit/main/README.md)
