@@ -21,4 +21,4 @@ Tyto nové funkce jsou výsledkem našeho neustálého snahy o inovace a zlepšo
 
 Těším se, že vám brzy mohu představit tyto nové možnosti a děkuji vám za vaši nepřetržitou podporu a zájem o naše výrobky.
 
-[na readme](https://github.com/esp32pcb/hodiny/edit/main/README.md)
+[na readme](https://github.com/esp32pcb/hodiny/README.md)
