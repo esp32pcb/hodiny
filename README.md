@@ -15,7 +15,20 @@
 - datum a kdo ma svatek co 1 minutu
 - pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
 
-## Novinky-Vylepseni-Hodin
+# novinka
+## stáhněte si program pro arduino hodiny a experimentujte podle vlastních potřeb
+
+Pro všechny nadšence a DIY (Do-It-Yourself) kutily mám vzrušující zprávu! Na adrese https://github.com/esp32pcb/arduino-clock je nyní k dispozici program pro naše Arduino hodiny. Tento program vám umožní experimentovat a přizpůsobit hodiny dle vašich specifických potřeb a představ.
+
+V tomto repozitáři naleznete veškeré potřebné zdrojové kódy a instrukce, jak hodiny nastavit a modifikovat. To vám otevírá dveře k neomezeným možnostem – od změny zobrazovaných informací až po integraci nových senzorů a funkcí.
+
+Důležité Upozornění:
+Je třeba mít na paměti, že jakmile provedete změny v programu a nahrajete je do hodin, nebude již možné se vrátit k původnímu softwaru hodin, který byl nainstalován při nákupu. Před prováděním jakýchkoli změn si prosím pečlivě přečtěte instrukce a ujistěte se, že rozumíte všem krokům procesu.
+
+Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umožnit každému, aby se podílel na rozvoji a inovacích. Těším se na vaše vlastní projekty a nápady, jak hodiny dále vylepšit!
+
+
+## Vylepseni hodin
 - pridano animovani cisel
 - [dalsi info](https://github.com/esp32pcb/hodiny/blob/main/Hodiny_Pripravovane_Inovace.md)
 
