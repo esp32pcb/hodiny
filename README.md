@@ -15,6 +15,10 @@
 - datum a kdo ma svatek co 1 minutu
 - pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
 
+## Novinky-Vylepseni-Hodin
+- pridano animovani cisel
+- dalsi info
+
 ## sestaveni
 PCB si muzete koupit na e-shopu v [HADEXu](https://www.hadex.cz/m303-vyvojova-deska-s-esp32-vroom-32-24ghz-wifi--bluetooth)
 
@@ -48,6 +52,8 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - 1.10 změna chování u startu hodin. Po zapnutí se na displeji zobrazí text "wifi?"
   
 - 1.1 startovací verze.
+
+
 
 ## kontakt
 esp32hodiny@gmail.com
