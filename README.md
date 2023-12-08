@@ -37,6 +37,8 @@ PCB si muzete koupit na e-shopu v [HADEXu](https://www.hadex.cz/m303-vyvojova-de
 
 v Hadexu si kupte i [displej](https://www.hadex.cz/m504a-led-matrix-matice-8x8x4-s-max7219---cervena).
 
+nebo celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
+
 video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
 [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) koupíte zatim tady.
