@@ -34,11 +34,7 @@ Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umo�
 - [dalsi info](https://github.com/esp32pcb/hodiny/blob/main/Hodiny_Pripravovane_Inovace.md)
 
 ## sestaveni
-PCB si muzete koupit na e-shopu v [HADEXu](https://www.hadex.cz/m303-vyvojova-deska-s-esp32-vroom-32-24ghz-wifi--bluetooth)
-
-v Hadexu si kupte i [displej](https://www.hadex.cz/m504a-led-matrix-matice-8x8x4-s-max7219---cervena).
-
-nebo celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
+v Hadexu si kupte celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
 
 video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
