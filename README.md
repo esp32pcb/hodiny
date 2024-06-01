@@ -34,11 +34,13 @@ Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umo�
 - [dalsi info](https://github.com/esp32pcb/hodiny/blob/main/Hodiny_Pripravovane_Inovace.md)
 
 ## sestaveni
-v Hadexu si kupte celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
+v Hadexu nebo tady si kupte celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
 
 video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
-[senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) koupíte zatim tady.
+[senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) koupíte tady.
+
+Pokud si stavebnici koupite tady tak senzor dostanete jako bonus.
 
 ## wifi
 - po spusteni hodin poprve je wifi prednastavena na SSID "IOT" a password "12345678".
@@ -71,7 +73,9 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
 
 ## kontakt
+Marcel Juchelka
 esp32hodiny@gmail.com
+tel.: +420 733 255 252
 
 
 
