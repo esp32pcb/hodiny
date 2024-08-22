@@ -59,6 +59,9 @@ Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
 ## FW verze 
+22.8.2024
+- 1.32  uprava regulace jasu podle okolniho osvetleni. Ted jde plynule a reaguje okamzite. Pri mereni vlhkosti neukazuje obcas 100%. (pokud by nekomu ukazovalo, tak prosim dejte vedet. na mych kouscich uz to nedela)
+
 11.4.2024
 - 1.31  přidána časomíra od 0-99s, rozlišení milisekundy - jak [nastavit](https://youtu.be/hgDsx6DGCJs)
 
