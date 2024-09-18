@@ -40,7 +40,7 @@ video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?li
 
 [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) koupíte tady.
 
-Pokud si stavebnici koupite tady tak senzor dostanete jako bonus.
+Pokud si stavebnici koupite u mne (kontakt je dole) tak [senzor teploty a vlhkosti](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) dostanete jako bonus zdarma.
 
 ## wifi
 - po spusteni hodin poprve je wifi prednastavena na SSID "IOT" a password "12345678".
