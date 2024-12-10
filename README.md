@@ -10,7 +10,7 @@
 ## co zatim umi?
 - nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG
 - upgrade firmware pres OTA
-- nastaveni intensity displeje podle okolniho svetla
+- nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
 - cas je rizeny z SNTP
 - datum a kdo ma svatek co 1 minutu
 - pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
