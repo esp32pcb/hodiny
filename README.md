@@ -8,7 +8,7 @@
 ## hodiny na led displeji 32x8 s max7219
 
 ## co zatim umi?
-- nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG
+- nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
 - upgrade firmware pres OTA
 - nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
 - cas je rizeny z SNTP
