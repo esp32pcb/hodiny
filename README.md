@@ -39,7 +39,7 @@ Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umo�
 ## Vylepseni hodin
 - pridana diakritika a ovladani hodin prez webove rozhrani
 - pridano animovani cisel
-- [dalsi info](https://github.com/esp32pcb/hodiny/blob/main/Hodiny_Pripravovane_Inovace.md)
+
 
 ## sestaveni
 v Hadexu nebo tady si kupte celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
