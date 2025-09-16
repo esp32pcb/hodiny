@@ -8,7 +8,7 @@
 ## hodiny na led displeji 32x8 s max7219
 
 ## co zatim umi?
-- nejnovejsi firmware [1.5x](https://fota.vipro.cz/flash_full_fw.html) umi diakritiku, ceske a slovenske svatky. Pomoci webove stranky nastavit zatim intenzitu diopleje, ale pridame tam do budoucna i eventy, kam si bude moci zapsat vyznamne udalosti (narozeniny atd.)
+- nejnovejsi firmware [1.5x](https://fota.vipro.cz/flash_full_fw.html) umi diakritiku, ceske a slovenske svatky. Pomoci webove stranky nastavit zatim intenzitu displeje, ale pridame tam do budoucna i eventy, kam si bude moci zapsat vyznamne udalosti (narozeniny atd.)
 - nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
 - upgrade firmware pres OTA
 - nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
@@ -17,7 +17,7 @@
 - pokud je pridan [senzor HDC1080](https://github.com/esp32pcb/hodiny/blob/main/senzorHDC1080_1.jpg) na I2C sbernici tak zobrazuje take teplotu a vlhkost
 - stopky - [časomíra](https://youtu.be/6PLG5gm5gp4) 0-99s po milisekundách 
 
-# novinka
+# chcete si programovat sami?
 ## stáhněte si program pro arduino hodiny a experimentujte podle vlastních potřeb
 
 Pro všechny nadšence a DIY (Do-It-Yourself) kutily mám vzrušující zprávu! Na adrese https://github.com/esp32pcb/arduino-clock je nyní k dispozici program pro naše Arduino hodiny. Tento program vám umožní experimentovat a přizpůsobit hodiny dle vašich specifických potřeb a představ.
@@ -30,7 +30,14 @@ Je třeba mít na paměti, že jakmile provedete změny v programu a nahrajete j
 Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umožnit každému, aby se podílel na rozvoji a inovacích. Těším se na vaše vlastní projekty a nápady, jak hodiny dále vylepšit!
 
 
+## Zjisteni stranky hodin na prohlizeci
+- po upgrade firmware se po restartu objevi ip stranky kterou mate zadat do prohlizece kterym se pripojujete na internet.
+  Podminka na pripojeni je, ze musite byt pocitacem nebo mobilem pripoeni na stejne siti.
+  Napr. displej po restartu ukaze IP: 192.168.1.5 tak na prohlizeci zadate 192.168.1.5, Protoze nepouzivame https, prohlizec upozorni, ze stranky jsou neduveryhodne tak se neleknete dejte pripojit.
+  Pak se nactou stranky z esp32.
+
 ## Vylepseni hodin
+- pridana diakritika a ovladani hodin prez webove rozhrani
 - pridano animovani cisel
 - [dalsi info](https://github.com/esp32pcb/hodiny/blob/main/Hodiny_Pripravovane_Inovace.md)
 
