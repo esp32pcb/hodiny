@@ -31,7 +31,7 @@ Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umo�
 
 
 ## Zjisteni stranky hodin na prohlizeci
-- po upgrade firmware se po restartu objevi ip stranky kterou mate zadat do prohlizece kterym se pripojujete na internet.
+- po upgrade firmware se po restartu objevi na displeji hodin ip stranky kterou mate zadat do prohlizece kterym se pripojujete na internet.
   Podminka na pripojeni je, ze musite byt pocitacem nebo mobilem pripoeni na stejne siti.
   Napr. displej po restartu ukaze IP: 192.168.1.5 tak na prohlizeci zadate 192.168.1.5, Protoze nepouzivame https, prohlizec upozorni, ze stranky jsou neduveryhodne tak se neleknete dejte pripojit.
   Pak se nactou stranky z esp32.
