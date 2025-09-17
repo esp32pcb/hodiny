@@ -67,9 +67,12 @@ Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
 ## FW verze 
+17.9.2025
+- 1.53  vylepsene info na displeji po upgrade a startu na dipleji. 
+
 16.9.2025
-- 1.5x uplne novy firmware ktery obsahuje diakritiku, a je mozne si prez web na esp32  nastavit zatim intenzitu displeje. Cely webovy flashovaci program najdete na [strance](https://fota.vipro.cz/flash_full_fw.html)
-- je tam zaroven popis jak na to.
+- 1.5x   uplne novy firmware ktery obsahuje diakritiku, a je mozne si prez web na esp32  nastavit zatim intenzitu displeje. Cely webovy flashovaci program najdete na [strance](https://fota.vipro.cz/flash_full_fw.html)
+- je tam zaroven popis jak na to. Nezpomente si pak klasickym zp;sobem stahnout nejnovejsi FW
 
 22.8.2024
 - 1.32  uprava regulace jasu podle okolniho osvetleni. Ted jde plynule a reaguje okamzite. Pri mereni vlhkosti neukazuje obcas 100%. (pokud by nekomu ukazovalo, tak prosim dejte vedet. na mych kouscich uz to nedela)
