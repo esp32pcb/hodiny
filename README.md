@@ -66,7 +66,29 @@ Pokud si stavebnici koupite u mne (kontakt je dole) tak [senzor teploty a vlhkos
 Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
-## FW verze 
+## nove FW verze s diakritikou a webovym rozhranim 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## pred stazenim techto fw je potreba projit prez kompletni preinstalaci firmware 
+### jak na to?
+- pripojite hodiny k pocitaci kde je chrome
+- webovy flashovaci program najdete na [strance](https://fota.vipro.cz/flash_full_fw.html)
+- pokud vam program nenajde pripojene hodiny je treba stahnout a nainstalovat driver pro CP2102
+- potom znovu pripojit hodiny a dat conect
+- nezapomenout nastavit "erase flash"
+- program automaticky vymaze a znovu nainstaluje cele hodiny. zrusi se cele nastaveni.
+- je portreba znovu nastavit wifi podle navodu.
+- pote si pomoci tlacitka G34 upradujte nejnovejsi verzi.
+
+## jak se dostat na webove rozhrani hodin
+- po restartu hodin se na displeji ukaze IP adresa kde naleznete webove stranky hodin. napr. IP: 192.168.1.23.
+- spustite svuj oblibeny webovy prohlizec a do adresniho radku zadate jenom 192.168.1.23.
+- prohlizec sice nahlasi, ze stranky jsou nezabezpecene ale klidne se na ne pripojte.
+- muzete si prochazet nastaveni (casem se budou pridavat funkce)
+- naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
+- pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 17.9.2025
 - 1.53  vylepsene info na displeji po upgrade a startu na dipleji. 
 
@@ -74,6 +96,8 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - 1.5x   uplne novy firmware ktery obsahuje diakritiku, a je mozne si prez web na esp32  nastavit zatim intenzitu displeje. Cely webovy flashovaci program najdete na [strance](https://fota.vipro.cz/flash_full_fw.html)
 - je tam zaroven popis jak na to. Nezpomente si pak klasickym zp;sobem stahnout nejnovejsi FW
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## stary FW ktery jde upgradovat standardne prez tlacitko G34. Pro novejsi se musi preinstalovat cele hodiny viz navod vyse.
 22.8.2024
 - 1.32  uprava regulace jasu podle okolniho osvetleni. Ted jde plynule a reaguje okamzite. Pri mereni vlhkosti neukazuje obcas 100%. (pokud by nekomu ukazovalo, tak prosim dejte vedet. na mych kouscich uz to nedela)
 
