@@ -66,8 +66,10 @@ Pokud si stavebnici koupite u mne (kontakt je dole) tak [senzor teploty a vlhkos
 Po připojení na WiFi si zkuste aktualizovat firmware.
 Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
-## nove FW verze s diakritikou a webovym rozhranim 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# nove FW verze s diakritikou a webovym rozhranim 
+
 ## pred stazenim techto fw je potreba projit prez kompletni preinstalaci firmware 
 ### jak na to?
 - pripojite hodiny k pocitaci kde je chrome
@@ -87,7 +89,9 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
 - pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+## FW s diakritikou a webovym rozhranim
+30.9.2025
+- 1.54  fix resetovani hodin kdyz neni pripojen senzor hdc1080
 
 17.9.2025
 - 1.53  vylepsene info na displeji po upgrade a startu na dipleji. 
