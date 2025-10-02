@@ -117,7 +117,7 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
   
 - 1.1 startovací verze.
 
-
+## podivejte se na novou verzi hodin s [ESP32-s3 N16/R8](https://github.com/esp32pcb/hodiny_v2/wiki)
 
 ## kontakt
 Marcel Juchelka
