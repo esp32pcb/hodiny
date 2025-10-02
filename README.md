@@ -80,6 +80,7 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - program automaticky vymaze a znovu nainstaluje cele hodiny. zrusi se cele nastaveni.
 - je portreba znovu nastavit wifi podle navodu.
 - pote si pomoci tlacitka G34 upradujte nejnovejsi verzi.
+- [video jak na to](https://youtu.be/ImiZ511ttPk)
 
 ## jak se dostat na webove rozhrani hodin
 - po restartu hodin se na displeji ukaze IP adresa kde naleznete webove stranky hodin. napr. IP: 192.168.1.23.
