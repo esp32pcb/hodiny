@@ -54,7 +54,7 @@ Pokud si stavebnici koupite u mne (kontakt je dole) tak [senzor teploty a vlhkos
 - po spusteni hodin poprve je wifi prednastavena na SSID "IOT" a password "12345678".
   Pokud si nastavite mobilni hotspot s temito parametry tak se hodiny pripoji a zacnou ukazovat cas, datum a svatky.
 ## nastaveni wifi
-- wifi se nastavuje pomoci aplikace ESPTOUCH SMARTCONFIG, ktera je jak pro android a tak pro iphone
+- wifi se nastavuje pomoci aplikace [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config), ktera je jak pro android a tak pro iphone
 - pripojite se mobilem na 2,4 Gb sit na ktere budou pripojeny take vase hodiny. Musi byt 2.4 Gb! 5Gb ESP neumi!
 
 - Neni li v okoli znama wifi sit zustanou hodiny tmave a svítí led v pravém horním rohu. Pozdejsi verze uz maji napis "wifi?"
