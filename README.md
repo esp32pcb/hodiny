@@ -42,7 +42,7 @@ Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umo�
 
 
 ## sestaveni
-v Hadexu nebo tady si kupte celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-vroom-32-24ghz-wifi--bluetooth) .
+v Hadexu nebo tady si kupte celou [stavebnici](https://www.hadex.cz/m304-stavebnice-hodiny-s-esp32-s3-a-max7219---verze2/) . Nyni je verze 2 s novym HW. info najdete [zde](https://github.com/esp32pcb/hodiny_v2).
 
 video k sestaveni hodin najdete na [youtube](https://www.youtube.com/playlist?list=PLUCHvT3VSIT8nw8vogFUVakzei5OW-S98)
 
