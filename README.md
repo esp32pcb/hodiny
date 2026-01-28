@@ -8,7 +8,7 @@
 ## hodiny na led displeji 32x8 s max7219
 
 ## co zatim umi?
-- nejnovejsi firmware [1.5x](https://fota.vipro.cz/flash_full_fw.html) umi diakritiku, ceske a slovenske svatky. Pomoci webove stranky nastavit zatim intenzitu displeje, ale pridame tam do budoucna i eventy, kam si bude moci zapsat vyznamne udalosti (narozeniny atd.)
+- nejnovejsi firmware [1.5x](https://esphodiny.eu/flash_full_fw.html) umi diakritiku, ceske a slovenske svatky. Pomoci webove stranky nastavit zatim intenzitu displeje, ale pridame tam do budoucna i eventy, kam si bude moci zapsat vyznamne udalosti (narozeniny atd.)
 - nastaveni wifi pomoci mobilni aplikace ESPTOUCH SMARTCONFIG. funguje take [ESP CONFIG](https://play.google.com/store/apps/details?id=com.techbot.smart_config)
 - upgrade firmware pres OTA
 - nastaveni intensity displeje podle okolniho svetla ( na to je tam ta ledka )
