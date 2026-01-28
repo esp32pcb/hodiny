@@ -73,7 +73,7 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 ## pred stazenim techto fw je potreba projit prez kompletni preinstalaci firmware 
 ### jak na to?
 - pripojite hodiny k pocitaci kde je chrome
-- webovy flashovaci program najdete na [strance](https://fota.vipro.cz/flash_full_fw.html)
+- webovy flashovaci program najdete na [strance](https://esphodiny.eu/flash_full_fw.html)
 - pokud vam program nenajde pripojene hodiny je treba stahnout a nainstalovat driver pro CP2102
 - potom znovu pripojit hodiny a dat conect
 - nezapomenout nastavit "erase flash"
