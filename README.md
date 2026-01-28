@@ -98,7 +98,7 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - 1.53  vylepsene info na displeji po upgrade a startu na dipleji. 
 
 16.9.2025
-- 1.5x   uplne novy firmware ktery obsahuje diakritiku, a je mozne si prez web na esp32  nastavit zatim intenzitu displeje. Cely webovy flashovaci program najdete na [strance](https://fota.vipro.cz/flash_full_fw.html)
+- 1.5x   uplne novy firmware ktery obsahuje diakritiku, a je mozne si prez web na esp32  nastavit zatim intenzitu displeje. Cely webovy flashovaci program najdete na [strance](https://esphodiny.eu/flash_full_fw.html)
 - je tam zaroven popis jak na to. Nezpomente si pak klasickym zp;sobem stahnout nejnovejsi FW
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
