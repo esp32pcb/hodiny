@@ -29,6 +29,8 @@ Je třeba mít na paměti, že jakmile provedete změny v programu a nahrajete j
 
 Tento krok je součástí našeho závazku podporovat komunitu nadšenců a umožnit každému, aby se podílel na rozvoji a inovacích. Těším se na vaše vlastní projekty a nápady, jak hodiny dále vylepšit!
 
+Pokud se chcete vráteit zpět k původním hodinám můžete si přez web naflashovat náš [firmare](https://esphodiny.eu/flash_full_fw.html).
+
 
 ## Zjisteni stranky hodin na prohlizeci
 - po upgrade firmware se po restartu objevi na displeji hodin ip stranky kterou mate zadat do prohlizece kterym se pripojujete na internet.
