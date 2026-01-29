@@ -69,8 +69,9 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # nove FW verze s diakritikou a webovym rozhranim 
+## pokud hodiny prestaly ukazovat svatky, je nutne upgradovat firmware nize uvedenym zpusobem. Preslo se na novou domenu a kdo nestihl upgradovat z puvodni domeny ma moznost si nahrat do hodin uplne novy FW
 
-## pred stazenim techto fw je potreba projit prez kompletni preinstalaci firmware 
+## pred stazenim techto fw je potreba projit pres kompletni preinstalaci firmware 
 ### jak na to?
 - pripojite hodiny k pocitaci kde je chrome
 - webovy flashovaci program najdete na [strance](https://esphodiny.eu/flash_full_fw.html)
@@ -91,6 +92,12 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## FW s diakritikou a webovym rozhranim
+29.1.2026
+- 1.56
+- novy firmware ktery je treba preinstalovat jak je uvedeno vyse. Dalsi upgrade FW uz se bude aktualizovat klasicky pres OTA
+- uprava driveru i2c a senzoru hodin. nyni je mozno odpojit a pripojit senzor teplotz za provozu bez restartu hodin
+
+  
 30.9.2025
 - 1.54  fix resetovani hodin kdyz neni pripojen senzor hdc1080
 
