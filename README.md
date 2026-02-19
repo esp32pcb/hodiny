@@ -93,7 +93,26 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
 - pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## FW s diakritikou a webovym rozhranim
+
+## FW s diakritikou a webovym rozhranim od verze 1.5x se aktualizuje pomoci tlacitka G34
+
+19.2.2026
+- 1.57
+- Firmware obsahuje webovou Spravu eventu, kde lze jednoduse pridavat a mazat udalosti (napr. narozeniny, vyroci, pripominky) pro konkretni datum.
+Eventy se ukladaji lokalne do events.json ve SPIFFS a po ulozeni se okamzite projevi ve webovem seznamu i v chovani hodin.
+
+Jak to funguje:
+
+v menu otevres stranku eventy
+vyberes datum a zadas text (do 50 znaku)
+po ulozeni se event zapise do SPIFFS a zobrazi se v seznamu
+event lze kdykoli smazat tlacitkem Smazat
+Jak se eventy projevuji na hodinach:
+
+hodiny pravidelne nacitaji eventy pro aktualni den
+pri zobrazovani data se podle interni logiky strida standardni svatek a text eventu
+pokud pro dany den event neexistuje, zobrazi se bezny rezim (svatek/datum)
+
 29.1.2026
 - 1.56
 - novy firmware ktery je treba preinstalovat jak je uvedeno vyse. Dalsi upgrade FW uz se bude aktualizovat klasicky pres OTA
