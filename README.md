@@ -97,6 +97,37 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 
 ## FW s diakritikou a webovym rozhranim od verze 1.5x se aktualizuje pomoci tlacitka G34
 
+22.2.2026
+- 1.58
+- Verze 1.58 - hlavni novinky
+
+- Nova stranka "Nastaveni hodin" (web UI).
+Kalibrace podsviceni:
+korekce ambient senzoru (offset)
+okamzita aplikace jasu
+- Nastaveni zobrazeni casu:
+- 24h / 12h format
+- zapnuti/vypnuti zobrazeni ambient intenzity
+- nastaveni rychlosti rolovani textu
+- Nocni rezim:
+zapnuti/vypnuti
+zacatek a konec vcetne minut
+samostatny nocni jas (0-15)
+- Nastaveni letniho/zimniho casu:
+EU automaticky
+bez zmeny casu
+vlastni POSIX pravidlo
+napoveda s datumy prechodu pro aktualni rok
+- WiFi nastaveni primo z webu:
+scan siti
+vyber SSID nebo rucni zadani
+ulozeni noveho WiFi a restart
+- Opravy a vylepseni:
+opravene dny v tydnu v kalendari eventu
+v seznamu eventu se nezobrazuje rok (prehlednejsi)
+robustnejsi nacitani config.ini (zachyt prázdneho/neplatneho souboru)
+
+
 19.2.2026
 - 1.57
 - Firmware obsahuje webovou Spravu eventu, kde lze jednoduse pridavat a mazat udalosti (napr. narozeniny, vyroci, pripominky) pro konkretni datum.
