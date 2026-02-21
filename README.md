@@ -93,6 +93,31 @@ Tlacitko G34 držte déle než 5s a aktualizace se spustí.
 - muzete si prochazet nastaveni (casem se budou pridavat funkce)
 - naleznete tam take browser, kdo to umi muze si editovat webove stranky, napr menit barvy atd.
 - pokud cokoliv zkazite tak si muzete znovu upgradovat firmware pomoci G34 a stranky se obnovi do puvodniho stavu.
+
+<table>
+<tr>
+<td align="center">
+<a href="docs/img/browser.jpg">
+<img src="docs/img/browser.jpg" width="150">
+</a><br>
+Browser
+</td>
+
+<td align="center">
+<a href="docs/img/eventy.jpg">
+<img src="docs/img/eventy.jpg" width="150">
+</a><br>
+Eventy
+</td>
+
+<td align="center">
+<a href="docs/img/nastaveni.jpg">
+<img src="docs/img/nastaveni.jpg" width="150">
+</a><br>
+Nastaveni
+</td>
+</tr>
+</table>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## FW s diakritikou a webovym rozhranim od verze 1.5x se aktualizuje pomoci tlacitka G34
