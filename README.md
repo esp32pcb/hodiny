@@ -7,6 +7,21 @@
 # HODINY NA MATICOVEM DISPLEJI RIZENE SNTP Z INTERNETU 
 ## hodiny na led displeji 32x8 s max7219
 
+## Podpora a komunita
+
+Oficiální stránka projektu:
+https://facebook.com/ceskechytrehodiny
+
+Zde najdete:
+- oznámení nových verzí firmware
+- řešení problémů
+- tipy a nastavení
+- návrhy nových funkcí od uživatelů
+
+## Pokud hodiny vlastníte, doporučuji stránku sledovat.
+----------------------------------------------------------------
+
+
 ## co zatim umi?
 - nejnovejsi firmware [1.5x](https://esphodiny.eu/flash_full_fw.html) umi diakritiku, ceske a slovenske svatky. Pomoci webove stranky nastavit zatim intenzitu displeje,
 - eventy, kam si muzete zapsat vyznamne udalosti (narozeniny atd.)
