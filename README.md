@@ -137,6 +137,17 @@ Nastaveni
 
 ## FW s diakritikou a webovym rozhranim od verze 1.5x se aktualizuje pomoci tlacitka G34
 
+09.3.2026
+Ve verzi 1.59 jsme oproti 1.58 doplnili do verze budik, composer a zjednodusili ovladani.
+
+Nejvetsi zmeny:
+- Nova stranka Budik + moznost nastaveni pres web.
+- Composer pro vlastni melodie.
+- Jedna globalni hlasitost piezo ridi budik, hodinove pipnuti i test tonu.
+- Volba klidoveho stavu piezo (`HIGH/LOW`) je ulozena v `config.ini`.
+- video na [připojení pieza](https://youtu.be/zOcRSYX1Wn4?si=oZXLs-JJXFheJjFE)
+
+
 22.2.2026
 - 1.58
 - Verze 1.58 - hlavni novinky
